@@ -755,8 +755,6 @@ $ddcmd(wxkeyboard(<37.2><111>),😊)	oi
 $ddcmd(）,）)	oj
 $ddcmd(《,《)	ok
 $ddcmd(》,》)	ol
-$ddcmd(」,」)	om
-$ddcmd(「,「)	on
 $ddcmd(㎡,㎡)	op
 $ddcmd(㎡,㎡)	opfm
 $ddcmd(amkeyboard(<37.2><111>),Q傲慢)	oqam

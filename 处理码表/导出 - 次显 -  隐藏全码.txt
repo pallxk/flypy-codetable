@@ -116,6 +116,7 @@
 粢	cidm
 祠	cipk
 辞	ciqu
+词	ciyk
 残	cjdj
 锉	cojt
 汆	crru
@@ -858,7 +859,6 @@
 淼	mnuu
 寞	mobd
 瘼	mobd
-茉	mocm
 藦	mocu
 蘑	mocu
 漠	modd
@@ -1090,6 +1090,7 @@
 同	tskk
 哃	tskk
 桐	tsmk
+㛚	tsny
 瞳	tsol
 恸	tsxl
 酮	tsyk
@@ -1578,7 +1579,6 @@
 剡	yjhd
 烟	yjhd
 扊	yjhh
-焱	yjhh
 虤	yjhj
 烻	yjhz
 黡	yjih
