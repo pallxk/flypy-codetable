@@ -1,0 +1,31 @@
+﻿---config@码表分类=主码-2
+---config@码表别名= 快捷符号
+：	;
+；	;;
+！	;a
+%	;b
+”	;c
+、	;d
+←	;e
+$ddcmd(run(http://www.<last.1>.com),-> http://www.<last.1>.com)	;f
+$ddcmd(run(http://<last.1>),-> http://<last.1>)	;f
+·	;g
+$ddcmd(《》keyboard(<37>),《》)	;h
+$ddcmd(config(/dict <last.1>),[字典])	;i
+$ddcmd(“”keyboard(<37>),“”)	;j
+$ddcmd(（）keyboard(<37>),（）)	;k
+$ddcmd(〔〕keyboard(<37>),〔〕)	;l
+$ddcmd(「」keyboard(<37>),「」)	;m
+$ddcmd(keyboard(<35>),[End])	;n
+℃	;o
+㎡	;p
+‰	;q
+→	;r
+$ddcmd(……,……)	;s
+$ddcmd(set([-DME设置-],是否启用编码逐渐提示=切换),[编码逐渐提示开关])	;t
+$ddcmd(keyboard(<27>),[Esc])	;u
+$ddcmd(——,——)	;v
+？	;w
+$ddcmd(____,____)	;x
+○	;y
+“	;z
