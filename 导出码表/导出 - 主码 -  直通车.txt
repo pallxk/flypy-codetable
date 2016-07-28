@@ -20,19 +20,19 @@ $ddcmd(set([-IME设置-],编码窗口样式=TSF-嵌入首选),[嵌入首选])	oi
 $ddcmd(keyboard(<35><36+Shift><46><36>),[删当前行])	oiu#序17607
 $ddcmd(config(/do 常用),[常用项])	oiy#序17626
 $ddcmd(set([-DME设置-],查询输入只查单字=切换),[万能键查字词切换])	oiz#序17615
-$ddcmd(set([-IME设置-],输入方案=主),[关闭])	ojb#序17602
-$ddcmd(set([-IME设置-],输入方案=主+辅),[启用补充简码])	ojb#序17603
+$ddcmd(set([-IME设置-],输入方案=主),[关闭])	ojb#序17601
+$ddcmd(set([-IME设置-],输入方案=主+辅),[启用补充简码])	ojb#序17602
 $ddcmd(config(/do 在线加词),[在线加词])	ojc#序17612
 $ddcmd(convert(繁体输出,切换),[简繁切换])	ojf#序17609
 $ddcmd(config(/do 界面),[界面项])	ojm#序17625
 $ddcmd(help(keyboardmap.html,600,500),[键盘图])	ojp#序17628
 $ddcmd(run(calc.exe),[计算器])	ojs#序17631
+$ddcmd(run(notepad.exe),[记事本])	oju#序17632
 $ddcmd(run(control.exe),[控制面板])	okv#序17636
 $ddcmd(config(/do 码表),[码表项])	omb#序17624
-$ddcmd(run(notepad.exe),[记事本])	ont#序17632
 $ddcmd(convert(全半角,切换),[全半角切换])	oqb#序17610
-$ddcmd(set([-IME设置-],检索次显码表=否),[关闭])	oqm#序17604
-$ddcmd(set([-IME设置-],检索次显码表=是),[启用隐藏的全码])	oqm#序17605
+$ddcmd(set([-IME设置-],检索次显码表=否),[关闭])	oqm#序17603
+$ddcmd(set([-IME设置-],检索次显码表=是),[启用隐藏的全码])	oqm#序17604
 $ddcmd(help(),[使用入门])	orm#序17647
 $ddcmd(<date.YYYY>年<date.M>月<date.D>日,<date.YYYY>年<date.M>月<date.D>日)	orq#序17644
 $ddcmd(<date.yyyy>-<date.mm>-<date.dd>,<date.yyyy>-<date.mm>-<date.dd>)	orq#序17643
@@ -44,8 +44,9 @@ $ddcmd(keyboard(<68+Win>),[桌面])	ovm#序17629
 $ddcmd(convert(中英文标点,切换),[中英文标点切换])	ovy#序17611
 $ddcmd(run(winword.exe),[word])	owd#序17635
 $ddcmd(run(C:\\Program Files),[程序文件夹])	owj#序17637
-$ddcmd(set([-IME设置-],禁用鼠标悬停词典=切换),[候选窗字典开关])	ozd#序17606
+$ddcmd(set([-IME设置-],禁用鼠标悬停词典=否),[启用候选窗字典])	ozd#序17606
+$ddcmd(set([-IME设置-],禁用鼠标悬停词典=是),[关闭])	ozd#序17605
 $ddcmd(keyboard(<32+Alt><78>),[最小化])	ozx#序17630
-$ddcmd(run(http://bbs.flypy.com),[小鹤论坛])	xhlt#序15833
-$ddcmd(run(http://flypy.com),[小鹤主页])	xhvy#序15834
-$ddcmd(run(http://flypy.ys168.com),[小鹤网盘])	xhwp#序15832
+$ddcmd(run(http://bbs.flypy.com),[小鹤论坛])	xhlt#序15807
+$ddcmd(run(http://flypy.com),[小鹤主页])	xhvy#序15808
+$ddcmd(run(http://flypy.ys168.com),[小鹤网盘])	xhwp#序15806

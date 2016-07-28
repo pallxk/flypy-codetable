@@ -27,9 +27,9 @@ $ddcmd(convert(繁体输出,切换),[简繁切换])	ojf
 $ddcmd(config(/do 界面),[界面项])	ojm
 $ddcmd(help(keyboardmap.html,600,500),[键盘图])	ojp
 $ddcmd(run(calc.exe),[计算器])	ojs
+$ddcmd(run(notepad.exe),[记事本])	oju
 $ddcmd(run(control.exe),[控制面板])	okv
 $ddcmd(config(/do 码表),[码表项])	omb
-$ddcmd(run(notepad.exe),[记事本])	ont
 $ddcmd(convert(全半角,切换),[全半角切换])	oqb
 $ddcmd(set([-IME设置-],检索次显码表=否),[关闭])	oqm
 $ddcmd(set([-IME设置-],检索次显码表=是),[启用隐藏的全码])	oqm
@@ -44,7 +44,8 @@ $ddcmd(keyboard(<68+Win>),[桌面])	ovm
 $ddcmd(convert(中英文标点,切换),[中英文标点切换])	ovy
 $ddcmd(run(winword.exe),[word])	owd
 $ddcmd(run(C:\\Program Files),[程序文件夹])	owj
-$ddcmd(set([-IME设置-],禁用鼠标悬停词典=切换),[候选窗字典开关])	ozd
+$ddcmd(set([-IME设置-],禁用鼠标悬停词典=否),[启用候选窗字典])	ozd
+$ddcmd(set([-IME设置-],禁用鼠标悬停词典=是),[关闭])	ozd
 $ddcmd(keyboard(<32+Alt><78>),[最小化])	ozx
 $ddcmd(run(http://bbs.flypy.com),[小鹤论坛])	xhlt
 $ddcmd(run(http://flypy.com),[小鹤主页])	xhvy

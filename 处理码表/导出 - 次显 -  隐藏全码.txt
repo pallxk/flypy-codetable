@@ -17,6 +17,7 @@
 豳	bbuu
 鸨	bcbn
 瀑	bcdu
+报	bcfy
 爆	bchu
 暴	bcou
 龅	bcvs
@@ -291,7 +292,6 @@
 馘	goba
 蜾	goig
 锅	gojn
-粿	gomg
 馃	goug
 过	gozc
 官	grbk
@@ -688,6 +688,7 @@
 坷	ketk
 刻	kewd
 恪	kexk
+坑	kgtj
 硁	kgug
 炕	khhj
 会	kkrs
@@ -705,6 +706,7 @@
 竘	kzlk
 喇	lakd
 辚	lbil
+林	lbmm
 翷	lbmx
 瞵	lbol
 乐	lcpd
@@ -1066,6 +1068,7 @@
 袒	tjpd
 贪	tjrr
 坦	tjtd
+碳	tjuh
 覃	tjxu
 谈	tjyh
 谭	tjyu
@@ -1099,6 +1102,7 @@
 颓	tvhr
 煺	tvhz
 蜕	tvie
+忳	tyxt
 头	tzdd
 痧	uabu
 挲	uadu
@@ -1560,6 +1564,7 @@
 亦	yiwd
 奕	yiwd
 裛	yiwy
+悒	yixb
 翼	yixb
 怡	yixk
 叕	yiyy
@@ -1642,6 +1647,8 @@
 浴	yudk
 潏	yudk
 淯	yudo
+隃	yued
+隩	yued
 屿	yuey
 嵎	yuey
 揄	yufd
