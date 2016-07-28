@@ -24,9 +24,9 @@
 钙	gd
 哥	ge
 官	gr
-功	gs
 故	gu
 化	h
+壶	hu
 华	hx
 扯	ie
 程	ig
@@ -68,7 +68,6 @@
 守	uz
 之	v
 招	vc
-宅	vd
 症	vg
 战	vj
 终	vs

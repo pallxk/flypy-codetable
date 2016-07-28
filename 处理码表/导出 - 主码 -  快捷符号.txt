@@ -6,7 +6,7 @@
 %	;b
 ”	;c
 、	;d
-←	;e
++	;e
 $ddcmd(<last.1>,[重复输入])	;f
 ·	;g
 $ddcmd(《》keyboard(<37>),《》)	;h
@@ -16,13 +16,12 @@ $ddcmd(（）keyboard(<37>),（）)	;k
 $ddcmd(〔〕keyboard(<37>),〔〕)	;l
 $ddcmd(‘’keyboard(<37>),‘’)	;m
 $ddcmd(keyboard(<35>),[End])	;n
-℃	;o
-㎡	;p
+←	;o
+→	;p
 ‰	;q
-→	;r
+-	;r
 ……	;s
-$ddcmd(set([-DME设置-],显示后续编码码长=0),[关闭])	;t
-$ddcmd(set([-DME设置-],显示后续编码码长=2),[开启编码提示])	;t
+=	;t
 $ddcmd(keyboard(<27>),[Esc])	;u
 ——	;v
 ？	;w

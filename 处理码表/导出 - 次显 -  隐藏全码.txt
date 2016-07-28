@@ -17,7 +17,6 @@
 豳	bbuu
 鸨	bcbn
 瀑	bcdu
-报	bcfy
 爆	bchu
 暴	bcou
 龅	bcvs
@@ -696,6 +695,7 @@
 匡	klkw
 诳	klyw
 矼	ksug
+窟	kubi
 刳	kudd
 枯	kumk
 喾	kuxk
@@ -1003,7 +1003,6 @@
 汋	qtdu
 傕	qtrf
 碏	qtuo
-䓛	quci
 渠	qudm
 蛐	quiq
 鼩	qujk
@@ -1295,6 +1294,7 @@
 文	wfwx
 望	whww
 完	wjbe
+顽	wjer
 晚	wjov
 无	wuav
 芜	wucw
@@ -1322,6 +1322,7 @@
 葳	wwcn
 薇	wwcw
 𫇭	wwcw
+为	wwdd
 洧	wwdo
 沩	wwdw
 溦	wwdw
@@ -1348,7 +1349,6 @@
 辛	xblu
 馨	xbuo
 衅	xbxb
-忻	xbxj
 䜣	xbyj
 菥	xicj
 葸	xicx
@@ -1470,6 +1470,7 @@
 冔	xuoy
 旴	xuoy
 墟	xuty
+畜	xuwt
 恤	xuxx
 瘕	xxby
 罅	xxfh

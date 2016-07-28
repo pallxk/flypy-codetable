@@ -23,9 +23,9 @@ $ddcmd(,)	obd
 $ddcmd(卩,卩)	obe
 $ddcmd(山,山)	obe
 $ddcmd(彐,彐)	obe
-$ddcmd(见字底,见字底)	obe
+$ddcmd(见下部,见下部)	obe
 $ddcmd(阝,阝)	obe
-$ddcmd(“寿、带”字头,“寿、带”字头)	obf
+$ddcmd(寿带上部,寿带上部)	obf
 $ddcmd(扌,扌)	obf
 $ddcmd(缶,缶)	obf
 $ddcmd(,)	obf
@@ -751,13 +751,14 @@ nm	ofdw
 ⑨	ofyu
 ⑩	ofyu
 $ddcmd(（,（)	oh
-$ddcmd(wxkeyboard(<37.2><111>),Q微笑)	oi
+$ddcmd(wxkeyboard(<37.2><111>),😊)	oi
 $ddcmd(）,）)	oj
 $ddcmd(《,《)	ok
 $ddcmd(》,》)	ol
 $ddcmd(」,」)	om
 $ddcmd(「,「)	on
 $ddcmd(㎡,㎡)	op
+$ddcmd(㎡,㎡)	opfm
 $ddcmd(amkeyboard(<37.2><111>),Q傲慢)	oqam
 $ddcmd(aiqkeyboard(<37.3><111>),Q爱情)	oqaq
 $ddcmd(bbkeyboard(<37.2><111>),Q便便)	oqbb
@@ -885,6 +886,7 @@ $ddcmd(♂,♂)	otn
 $ddcmd(°,°)	oto
 $ddcmd(€,€)	oto
 $ddcmd(∏,∏)	otp
+$ddcmd(㎡,㎡)	otp
 $ddcmd(‰,‰)	otq
 $ddcmd(の,の)	otr
 $ddcmd(∴,∴)	ots
