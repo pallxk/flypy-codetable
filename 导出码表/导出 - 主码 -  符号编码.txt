@@ -81,10 +81,10 @@ $ddcmd(亠,亠)	obw#序18721
 $ddcmd(夂,夂)	obw#序18720
 $ddcmd(攵,攵)	obw#序18719
 $ddcmd(文,文)	obw#序18718
-$ddcmd(ッ,ッ)	obx#序18714
+$ddcmd(⺍,⺍)	obx#序18715
 $ddcmd(乂,乂)	obx#序18716
 $ddcmd(忄,忄)	obx#序18717
-$ddcmd(,)	obx#序18715
+$ddcmd(,)	obx#序18714
 $ddcmd(,)	obx#序18713
 $ddcmd(羊,羊)	oby#序18708
 $ddcmd(衣底,衣底)	oby#序18709

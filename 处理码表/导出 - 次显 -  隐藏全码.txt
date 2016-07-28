@@ -13,6 +13,7 @@
 拔	bafd
 吧	bakb
 耙	balb
+粑	bamb
 滨	bbdb
 豳	bbuu
 鸨	bcbn
@@ -199,6 +200,7 @@
 度	dugy
 黩	duhd
 都	dule
+阇	dumo
 妒	dunh
 独	duqi
 读	duyd
@@ -368,6 +370,7 @@
 捍	hjfg
 邯	hjge
 蚶	hjig
+旱	hjog
 徊	hkik
 㿠	hlbw
 皇	hlbw
@@ -474,6 +477,7 @@
 氚	irqi
 摏	isfj
 舂	isfj
+种	ishv
 艟	isvl
 充	iswe
 憧	isxl
@@ -510,6 +514,7 @@
 近	jbzj
 击	jiak
 寄	jibk
+蓟	jicd
 藉	jico
 蒺	jicu
 芰	jicy
@@ -705,6 +710,7 @@
 贶	klke
 匡	klkw
 诳	klyw
+阔	komk
 矼	ksug
 窟	kubi
 刳	kudd
@@ -836,6 +842,7 @@
 嘞	lwkl
 伦	lyrb
 溇	lzdn
+漏	lzdy
 娄	lzmn
 偻	lzrn
 吗	makm
@@ -1091,6 +1098,7 @@
 听	tkkj
 町	tktd
 霆	tkyz
+栝	tmmk
 腆	tmob
 恬	tmxk
 铫	tnjd
@@ -1284,6 +1292,7 @@
 钟	vsjv
 中	vsll
 舯	vsvv
+澍	vudc
 渚	vudo
 潴	vudo
 注	vudv
@@ -1400,6 +1409,7 @@
 憙	xiux
 硒	xiux
 饻	xiuy
+郄	xixe
 恓	xixx
 䜣	xiyj
 荇	xkci
@@ -1608,6 +1618,7 @@
 嬿	yjnh
 燕	yjnh
 腌	yjod
+俨	yjry
 𫄧	yjsz
 埏	yjtz
 鄢	yjve

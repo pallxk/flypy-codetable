@@ -81,7 +81,7 @@ $ddcmd(亠,亠)	obw
 $ddcmd(夂,夂)	obw
 $ddcmd(攵,攵)	obw
 $ddcmd(文,文)	obw
-$ddcmd(ッ,ッ)	obx
+$ddcmd(⺍,⺍)	obx
 $ddcmd(乂,乂)	obx
 $ddcmd(忄,忄)	obx
 $ddcmd(,)	obx
