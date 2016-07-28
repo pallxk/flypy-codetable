@@ -42,6 +42,7 @@ $ddcmd(keyboard(<35><36+Shift><46><36>),[删当前行])	oui
 $ddcmd(<date.z> <time.h>:<time.mm>,<date.z> <time.h>:<time.mm>)	ouj
 $ddcmd(keyboard(<68+Win>),[桌面])	ovm
 $ddcmd(convert(中英文标点,切换),[中英文标点切换])	ovy
+$ddcmd(run(::{450D8FBA-AD25-11D0-98A8-0800361B1103}),[我的文档])	owd
 $ddcmd(run(winword.exe),[word])	owd
 $ddcmd(run(C:\\Program Files),[程序文件夹])	owj
 $ddcmd(set([-IME设置-],禁用鼠标悬停词典=否),[启用候选窗字典])	ozd

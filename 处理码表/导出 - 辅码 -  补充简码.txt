@@ -79,7 +79,6 @@
 心	xb
 型	xk
 凶	xs
-一句话	y
 隐	yb
 野	ye
 杨	yh

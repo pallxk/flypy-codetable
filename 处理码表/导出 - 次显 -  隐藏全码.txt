@@ -102,6 +102,7 @@
 补	bupb
 埗	butp
 埠	butu
+布	buuj
 呗	bwkr
 邶	bwle
 棓	bwmk
@@ -156,6 +157,7 @@
 缔	disj
 氐	diud
 帝	diwj
+玓	diwu
 羝	diyd
 谛	diyj
 疸	djbd
@@ -255,6 +257,7 @@
 辅	fuif
 蜉	fuiz
 𫓧	fujf
+赋	fukv
 㕮	fukx
 驸	fumc
 脯	fuof
@@ -630,6 +633,7 @@
 颎	jsbr
 炯	jshk
 炅	jsoh
+决	jtdg
 决	jtdn
 㵐	jtdr
 爝	jthc
@@ -638,6 +642,8 @@
 绝	jtsb
 矞	jtsk
 埆	jtty
+砄	jtug
+玦	jtwg
 诀	jtyn
 苣	jucj
 蒟	juck
@@ -701,6 +707,7 @@
 刳	kudd
 枯	kumk
 喾	kuxk
+馗	kvjz
 睽	kvot
 𫠆	kvur
 逵	kvzt
@@ -849,8 +856,10 @@
 缦	mjsy
 铭	mkjk
 名	mkxk
+沔	mmdm
 免	mmdv
 沔	mmdv
+眄	mmom
 眠	mmom
 眄	mmov
 愐	mmxm
@@ -929,9 +938,7 @@
 粕	pomb
 葡	pucf
 蒱	pucf
-濮	pudf
 铺	pujf
-噗	pukf
 曝	puou
 埔	putf
 沛	pwdl
@@ -1005,7 +1012,7 @@
 傕	qtrf
 碏	qtuo
 渠	qudm
-蛐	quiq
+蛆	quiq
 鼩	qujk
 驱	qumx
 祛	qups
@@ -1204,6 +1211,7 @@
 朝	vcuo
 笊	vcvv
 诏	vcyk
+窄	vdbv
 砦	vdvu
 折	vefj
 疹	vfbp
@@ -1257,6 +1265,7 @@
 占	vjlk
 站	vjlk
 粘	vjmk
+壮	vldu
 汋	vodu
 灼	vohu
 卓	volu
@@ -1533,7 +1542,7 @@
 鹢	yibn
 癔	yibx
 肄	yiby
-漪	yidk
+沂	yidj
 溢	yidm
 㴔	yidx
 洢	yidy
@@ -1737,6 +1746,7 @@
 族	zufu
 镞	zuju
 卒	zuwu
+醉	zvyu
 邹	zzde
 奏	zzft
 诹	zzyy

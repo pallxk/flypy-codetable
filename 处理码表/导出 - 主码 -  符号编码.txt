@@ -755,8 +755,9 @@ $ddcmd(wxkeyboard(<37.2><111>),😊)	oi
 $ddcmd(）,）)	oj
 $ddcmd(《,《)	ok
 $ddcmd(》,》)	ol
+$ddcmd(〕,〕)	om
+$ddcmd(〔,〔)	on
 $ddcmd(㎡,㎡)	op
-$ddcmd(㎡,㎡)	opfm
 $ddcmd(amkeyboard(<37.2><111>),Q傲慢)	oqam
 $ddcmd(aiqkeyboard(<37.3><111>),Q爱情)	oqaq
 $ddcmd(bbkeyboard(<37.2><111>),Q便便)	oqbb
@@ -803,6 +804,7 @@ $ddcmd(klkeyboard(<37.2><111>),Q骷髅)	oqkl
 $ddcmd(ktkeyboard(<37.2><111>),Q磕头)	oqkt
 $ddcmd(kukkeyboard(<37.3><111>),Q酷)	oqku
 $ddcmd(kunkeyboard(<37.3><111>),Q困)	oqky
+$ddcmd(lenghkeyboard(<37.5><111>),Q冷汗)	oqlh
 $ddcmd(lhkeyboard(<37.2><111>),Q流汗)	oqlh
 $ddcmd(llkeyboard(<37.2><111>),Q流泪)	oqll
 $ddcmd(lwkeyboard(<37.2><111>),Q礼物)	oqlw
