@@ -845,7 +845,7 @@ $ddcmd(xigkeyboard(<37.3><111>),Q西瓜)	oqxg
 $ddcmd(xskeyboard(<37.2><111>),Q心碎)	oqxs
 $ddcmd(xu...keyboard(<37.5><111>),Q嘘...)	oqxu
 $ddcmd(xwkeyboard(<37.2><111>),Q献吻)	oqxw
-$ddcmd(xiakeyboard(<37.3><111>),Q吓)	oqxx
+$ddcmd(/xia,Q吓)	oqxx
 $ddcmd(ybkeyboard(<37.2><111>),Q拥抱)	oqyb
 $ddcmd(ylkeyboard(<37.2><111>),Q月亮)	oqyl
 $ddcmd(yiwkeyboard(<37.3><111>),Q疑问)	oqyw

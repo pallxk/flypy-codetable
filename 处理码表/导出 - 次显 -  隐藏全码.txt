@@ -615,7 +615,7 @@
 酵	jnyz
 岊	jpbe
 洁	jpdk
-㛃	jpfn
+接	jpfn
 戒	jpgc
 骱	jpgl
 秸	jphk
@@ -1278,6 +1278,7 @@
 跖	vizu
 蘸	vjch
 沾	vjdk
+湛	vjdv
 盏	vjjm
 占	vjlk
 站	vjlk
