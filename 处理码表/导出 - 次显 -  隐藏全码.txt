@@ -1437,7 +1437,6 @@
 蟹	xpdi
 渫	xpdm
 澥	xpdn
-解	xpdn
 泄	xpdu
 揳	xpfd
 械	xpmc
@@ -1445,6 +1444,7 @@
 榍	xpmo
 斜	xpru
 些	xpve
+燮	xpwy
 𤫉	xpwy
 谐	xpyb
 谢	xpyc
@@ -1568,7 +1568,6 @@
 枍	yimv
 猗	yiqk
 佁	yirk
-㑊	yiry
 伊	yiry
 依	yiry
 圯	yits
@@ -1715,6 +1714,7 @@
 铀	yzjy
 由	yzla
 祐	yzpk
+有	yzuo
 尢	yzuv
 羑	yzyj
 咂	zakj
