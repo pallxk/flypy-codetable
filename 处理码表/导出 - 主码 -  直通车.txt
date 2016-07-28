@@ -11,6 +11,8 @@ $ddcmd(config(/do gaojishezhi),[高级设置])	ogj
 $ddcmd(config(/do 高级),[高级项])	ogj
 $ddcmd(config(/do about),[关于项])	ogy
 $ddcmd(run(http://www.zdic.net/sousuo/?q=<last.1>),[汉典]：<last.1>)	ohd
+$ddcmd(set([-SKIN设置-],使用皮肤名称=zg.col),[默认])	ohf
+$ddcmd(set([-SKIN设置-],使用皮肤名称=zgda.col),[大])	ohf
 $ddcmd(run(mspaint.exe),[画图])	oht
 $ddcmd(set([-IME设置-],隐藏候选窗口=切换),[显隐候选窗])	oic
 $ddcmd(set([-SKIN设置-],候选列表排列样式=横排),[横排窗口])	oih

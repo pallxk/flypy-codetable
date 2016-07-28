@@ -526,6 +526,7 @@
 嵇	jihe
 稽	jiho
 穄	jihx
+辑	jiie
 𫓹	jijb
 忌	jijx
 唧	jike
@@ -675,6 +676,7 @@
 嫁	jxnu
 假	jxry
 迦	jxzk
+龟	jydv
 麇	jygh
 骏	jymw
 鋆	jytj
@@ -783,6 +785,7 @@
 墚	lltm
 亮	llwj
 悢	llxl
+谅	llyx
 帘	lmbj
 殓	lmda
 练	lmsd
@@ -842,6 +845,7 @@
 蟊	mcsi
 貌	mcve
 荬	mdcd
+鹲	mgcn
 萌	mgco
 锰	mgjm
 艨	mgvu
@@ -1144,6 +1148,7 @@
 眚	uguo
 圣	ugyt
 殇	uhdp
+汤	uhdp
 熵	uhhk
 埫	uhtk
 墒	uhtk
@@ -1249,6 +1254,7 @@
 轾	viit
 帜	vijb
 铚	vijt
+帙	viju
 枳	vimb
 制	vipd
 祗	vipd
@@ -1678,6 +1684,7 @@
 畬	yurt
 伛	yurx
 悆	yurx
+矞	yusk
 鹬	yusn
 预	yusr
 纡	yusy
@@ -1732,7 +1739,7 @@
 资	zidr
 虸	ziiz
 锱	zijt
-嗞	ziky
+吱	ziky
 梓	zimu
 赀	zivr
 鄑	ziye

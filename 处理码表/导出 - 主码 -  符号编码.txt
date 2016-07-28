@@ -738,6 +738,7 @@ nm	ofdw
 τ	ofxx
 υ	ofxx
 φ	ofxx
+χ	ofxx
 ψ	ofxx
 ω	ofxx
 ①	ofyu

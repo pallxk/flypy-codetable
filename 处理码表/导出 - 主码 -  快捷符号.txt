@@ -20,11 +20,11 @@ $ddcmd(keyboard(<35>),[End])	;n
 →	;p
 ‰	;q
 -	;r
-……	;s
+$ddcmd(……,……)	;s
 =	;t
 $ddcmd(keyboard(<27>),[Esc])	;u
-——	;v
+$ddcmd(——,——)	;v
 ？	;w
-____	;x
+$ddcmd(____,____)	;x
 @	;y
 “	;z
