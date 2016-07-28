@@ -893,6 +893,7 @@ $ddcmd(℡,℡)	ott
 $ddcmd(®,®)	otu
 $ddcmd(™,™)	otu
 $ddcmd(㈱,㈱)	otv
+$ddcmd(㊣,㊣)	otv
 $ddcmd(∞,∞)	otw
 $ddcmd(卍,卍)	otw
 $ddcmd(卐,卐)	otw

@@ -6,15 +6,15 @@
 %	;b
 ”	;c
 、	;d
-$ddcmd(keyboard(<9+Ctrl><76+Ctrl>),[切换标签窗])	;e
+←	;e
 $ddcmd(<last.1>,[重复输入])	;f
-$ddcmd(keyboard(<87+Ctrl>),[关闭标签窗])	;g
+·	;g
 $ddcmd(《》keyboard(<37>),《》)	;h
 $ddcmd(config(/dict <last.1>),[字典])	;i
 $ddcmd(“”keyboard(<37>),“”)	;j
 $ddcmd(（）keyboard(<37>),（）)	;k
 $ddcmd(〔〕keyboard(<37>),〔〕)	;l
-$ddcmd(「」keyboard(<37>),「」)	;m
+$ddcmd(‘’keyboard(<37>),‘’)	;m
 $ddcmd(keyboard(<35>),[End])	;n
 ℃	;o
 ㎡	;p
@@ -27,5 +27,5 @@ $ddcmd(keyboard(<27>),[Esc])	;u
 ——	;v
 ？	;w
 ____	;x
-·	;y
+@	;y
 “	;z
