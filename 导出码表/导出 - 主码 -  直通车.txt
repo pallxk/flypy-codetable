@@ -48,6 +48,6 @@ $ddcmd(run(C:\\Program Files),[程序文件夹])	owj#序17631
 $ddcmd(set([-IME设置-],禁用鼠标悬停词典=否),[启用候选窗字典])	ozd#序17599
 $ddcmd(set([-IME设置-],禁用鼠标悬停词典=是),[关闭])	ozd#序17598
 $ddcmd(keyboard(<32+Alt><78>),[最小化])	ozx#序17623
-$ddcmd(run(http://bbs.flypy.com),[小鹤论坛])	xhlt#序15657
-$ddcmd(run(http://flypy.com),[小鹤主页])	xhvy#序15658
-$ddcmd(run(http://flypy.ys168.com),[小鹤网盘])	xhwp#序15656
+$ddcmd(run(http://bbs.flypy.com),[小鹤论坛])	xhlt#序15651
+$ddcmd(run(http://flypy.com),[小鹤主页])	xhvy#序15652
+$ddcmd(run(http://flypy.ys168.com),[小鹤网盘])	xhwp#序15650

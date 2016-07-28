@@ -64,6 +64,7 @@
 搬	bjfy
 瓣	bjlu
 板	bjmy
+坂	bjty
 般	bjvy
 𨭉	bjwj
 班	bjww
@@ -818,6 +819,7 @@
 绿	lusu
 垆	lutu
 碌	luuu
+簏	luvb
 录	luvu
 箓	luvu
 舻	luvu
@@ -1174,6 +1176,7 @@
 闪	ujmr
 埏	ujtz
 舢	ujve
+鄯	ujye
 善	ujyk
 蟀	ukiu
 蒴	uoco
@@ -1540,7 +1543,6 @@
 宧	yibi
 益	yibm
 鹢	yibn
-癔	yibx
 肄	yiby
 沂	yidj
 溢	yidm
@@ -1562,6 +1564,7 @@
 咦	yiky
 翊	yilx
 毅	yily
+椅	yimk
 枍	yimv
 猗	yiqk
 佁	yirk
