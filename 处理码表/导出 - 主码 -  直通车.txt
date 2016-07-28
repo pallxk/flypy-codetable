@@ -3,31 +3,26 @@
 $ddcmd(config(/do anjianshezhi),[按键定义])	oaj
 $ddcmd(run(%apppath%\\),[安装目录])	oav
 $ddcmd(run(cmd.exe),[命令提示行])	ocm
-$ddcmd(run(powershell.exe),[powershell])	ocm
-$ddcmd(set([-IME设置-],检索次显码表=是),[开启次显表])	ocx
-$ddcmd(set([-IME设置-],检索次显码表=否),[关闭])	ocx
 $ddcmd(run(::{20D04FE0-3AEA-1069-A2D8-08002B30309D}),[我的电脑])	odn
 $ddcmd(run(excel.exe),[excel])	oec
 $ddcmd(config(/do 剪贴板反查),[剪贴板反查])	ofi
-$ddcmd(config(/do 高级),[高级项])	ogj
+$ddcmd(config(/do 输出反查),[反查]：<last.1>)	ofi
 $ddcmd(config(/do gaojishezhi),[高级设置])	ogj
+$ddcmd(config(/do 高级),[高级项])	ogj
 $ddcmd(config(/do about),[关于项])	ogy
-$ddcmd(run(http://www.zdic.net/sousuo/?q=<last.1>),[汉典查询])	ohd
-$ddcmd(set([-SKIN设置-],使用皮肤名称=切换),[切换皮肤])	ohf
+$ddcmd(run(http://www.zdic.net/sousuo/?q=<last.1>),[汉典]：<last.1>)	ohd
 $ddcmd(run(mspaint.exe),[画图])	oht
 $ddcmd(set([-IME设置-],隐藏候选窗口=切换),[显隐候选窗])	oic
 $ddcmd(set([-SKIN设置-],候选列表排列样式=横排),[横排窗口])	oih
 $ddcmd(set([-SKIN设置-],候选列表排列样式=竖排),[竖排窗口])	oih
-$ddcmd(set([-IME设置-],编码窗口样式=IME-传统样式),[IME传统候选窗])	oii
+$ddcmd(set([-IME设置-],编码窗口样式=TSF-传统样式),[传统候选窗])	oiq
 $ddcmd(set([-IME设置-],编码窗口样式=TSF-嵌入编码),[嵌入编码])	oiq
 $ddcmd(set([-IME设置-],编码窗口样式=TSF-嵌入首选),[嵌入首选])	oiq
-$ddcmd(set([-IME设置-],编码窗口样式=TSF-传统样式),[TSF传统候选窗])	oit
-$ddcmd(keyboard(<35><36+Shift><46>),[删当前行])	oiu
-$ddcmd(set([-SKIN设置-],候选序号是否可见=切换),[候选序号显隐])	oix
+$ddcmd(keyboard(<35><36+Shift><46><36>),[删当前行])	oiu
 $ddcmd(config(/do 常用),[常用项])	oiy
 $ddcmd(set([-DME设置-],查询输入只查单字=切换),[万能键查字词切换])	oiz
-$ddcmd(set([-IME设置-],输入方案=主+辅),[开启补充简码表])	ojb
 $ddcmd(set([-IME设置-],输入方案=主),[关闭])	ojb
+$ddcmd(set([-IME设置-],输入方案=主+辅),[启用补充简码])	ojb
 $ddcmd(config(/do 在线加词),[在线加词])	ojc
 $ddcmd(convert(繁体输出,切换),[简繁切换])	ojf
 $ddcmd(config(/do 界面),[界面项])	ojm
@@ -35,25 +30,24 @@ $ddcmd(help(keyboardmap.html,600,500),[键盘图])	ojp
 $ddcmd(run(calc.exe),[计算器])	ojs
 $ddcmd(run(control.exe),[控制面板])	okv
 $ddcmd(config(/do 码表),[码表项])	omb
-$ddcmd(set([-SKIN设置-],使用皮肤名称=mr.col),[默认皮肤])	omr
 $ddcmd(run(notepad.exe),[记事本])	ont
 $ddcmd(convert(全半角,切换),[全半角切换])	oqb
+$ddcmd(set([-IME设置-],检索次显码表=否),[关闭])	oqm
+$ddcmd(set([-IME设置-],检索次显码表=是),[启用隐藏的全码])	oqm
 $ddcmd(help(),[使用入门])	orm
-$ddcmd(<date.yyyy>年<date.m>月<date.d>日,<date.yyyy>年<date.m>月<date.d>日)	orq
 $ddcmd(<date.YYYY>年<date.M>月<date.D>日,<date.YYYY>年<date.M>月<date.D>日)	orq
 $ddcmd(<date.yyyy>-<date.mm>-<date.dd>,<date.yyyy>-<date.mm>-<date.dd>)	orq
-$ddcmd(run(http://www.baidu.com/s?wd=<last.1>),[百度搜索])	oss
-$ddcmd(run(http://cn.bing.com/search?q=<last.1>),[Bing搜索])	oss
-$ddcmd(keyboard(<35><36+Shift><46>),[删当前行])	oui
+$ddcmd(<date.yyyy>年<date.m>月<date.d>日,<date.yyyy>年<date.m>月<date.d>日)	orq
+$ddcmd(run(http://cn.bing.com/search?q=<last.0>),[Bing]：<last.0>)	oss
+$ddcmd(run(http://www.baidu.com/s?wd=<last.0>),[百度]：<last.0>)	oss
+$ddcmd(keyboard(<35><36+Shift><46><36>),[删当前行])	oui
 $ddcmd(<date.z> <time.h>:<time.mm>,<date.z> <time.h>:<time.mm>)	ouj
-$ddcmd(set([-IME设置-],隐藏状态条窗口=切换),[显隐状态栏])	ovc
 $ddcmd(keyboard(<68+Win>),[桌面])	ovm
-$ddcmd(set([-IME设置-],是否嵌入状态栏窗口=切换),[切换嵌入状态栏])	ovq
 $ddcmd(convert(中英文标点,切换),[中英文标点切换])	ovy
 $ddcmd(run(winword.exe),[word])	owd
 $ddcmd(run(C:\\Program Files),[程序文件夹])	owj
 $ddcmd(set([-IME设置-],禁用鼠标悬停词典=切换),[候选窗字典开关])	ozd
 $ddcmd(keyboard(<32+Alt><78>),[最小化])	ozx
-$ddcmd(run(http://www.flypy.com/bbs),[小鹤论坛])	xhlt
-$ddcmd(run(http://www.flypy.com),[小鹤双拼主页])	xhvy
+$ddcmd(run(http://bbs.flypy.com),[小鹤论坛])	xhlt
+$ddcmd(run(http://flypy.com),[小鹤主页])	xhvy
 $ddcmd(run(http://flypy.ys168.com),[永硕网盘])	xhwp

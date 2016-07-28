@@ -4,6 +4,7 @@
 吧	b
 宝	bc
 笨	bf
+甭	bg
 逼	bi
 背	bw
 此	c
@@ -21,6 +22,7 @@
 管	g
 搞	gc
 钙	gd
+哥	ge
 官	gr
 功	gs
 故	gu
@@ -36,11 +38,11 @@
 居	ju
 佳	jx
 块	k
-量	l
+立	l
 溜	lq
 嘛	m
 骂	ma
-美	mw
+梅	mw
 哪	n
 浓	ns
 期	q
@@ -51,10 +53,12 @@
 忍	rf
 扔	rg
 随	s
+寺	si
 它	t
 淘	tc
 疼	tg
 替	ti
+舔	tm
 通	ts
 退	tv
 十	u
@@ -75,7 +79,9 @@
 心	xb
 型	xk
 凶	xs
+一句话	y
 隐	yb
+野	ye
 杨	yh
 严	yj
 园	yr
@@ -83,3 +89,4 @@
 友	yz
 子	z
 遭	zc
+揍	zz
