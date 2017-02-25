@@ -32,6 +32,7 @@ $ddcmd(config(/do 界面),[界面项])	ojm
 $ddcmd(help(keyboardmap.html,600,500),[键盘图])	ojp
 $ddcmd(run(calc.exe),[计算器])	ojs
 $ddcmd(run(notepad.exe),[记事本])	oju
+$ddcmd(keyboard(<173>),[静音开关])	ojy
 $ddcmd(run(control.exe),[控制面板])	okv
 $ddcmd(config(/do 码表),[码表项])	omb
 $ddcmd(convert(全半角,切换),[全半角切换])	oqb
