@@ -12,13 +12,15 @@ $ddcmd(config(/do 高级),[高级项])	ogj
 $ddcmd(config(/do about),[关于项])	ogy
 $ddcmd(run(http://www.zdic.net/sousuo/?q=<last.1>),[汉典]：<last.1>)	ohd
 $ddcmd(set([-SKIN设置-],使用皮肤名称=zg.col),[默认])	ohf
-$ddcmd(set([-SKIN设置-],使用皮肤名称=zgda.col),[大])	ohf
+$ddcmd(set([-SKIN设置-],使用皮肤名称=切换),[换肤])	ohf
 $ddcmd(run(mspaint.exe),[画图])	oht
 $ddcmd(set([-IME设置-],隐藏候选窗口=切换),[显隐候选窗])	oic
+$ddcmd(set([-IME设置-],隐藏状态栏窗口=切换),[显隐状态栏])	oic
 $ddcmd(set([-SKIN设置-],候选列表排列样式=横排),[横排窗口])	oih
 $ddcmd(set([-SKIN设置-],候选列表排列样式=竖排),[竖排窗口])	oih
-$ddcmd(set([-IME设置-],嵌入文本内容=传统样式),[传统样式])	oiq
-$ddcmd(set([-IME设置-],嵌入文本内容=嵌入编码),[嵌入编码])	oiq
+$ddcmd(set([-IME设置-],编码窗口样式=TSF-传统样式),[传统样式])	oiq
+$ddcmd(set([-IME设置-],编码窗口样式=TSF-嵌入编码),[嵌入编码])	oiq
+$ddcmd(set([-IME设置-],编码窗口样式=TSF-嵌入首选),[嵌入首选])	oiqr
 $ddcmd(keyboard(<35><36+Shift><46><36>),[删当前行])	oiu
 $ddcmd(config(/do 常用),[常用项])	oiy
 $ddcmd(set([-DME设置-],查询输入只查单字=切换),[万能键查字词切换])	oiz

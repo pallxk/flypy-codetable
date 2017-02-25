@@ -1,6 +1,7 @@
 ﻿---config@码表分类=主码-1
 ---config@码表别名= 符号编码
 $ddcmd(！,！)	oa
+$ddcmd(%,%)	ob
 $ddcmd(一,一)	ob
 $ddcmd(丨,丨)	ob
 $ddcmd(丶,丶)	ob
@@ -29,7 +30,6 @@ $ddcmd(寿带上部,寿带上部)	obf
 $ddcmd(扌,扌)	obf
 $ddcmd(缶,缶)	obf
 $ddcmd(,)	obf
-%	obfh
 $ddcmd(既左部,既左部)	obg
 $ddcmd(艮,艮)	obg
 $ddcmd(革,革)	obg
@@ -753,12 +753,37 @@ nm	ofdw
 ⑩	ofyu
 $ddcmd(（,（)	oh
 $ddcmd(wxkeyboard(<37.2><111>),😊)	oi
+$ddcmd(🙏,🙏)	oibt
+$ddcmd(🖕,🖕)	oicc
+$ddcmd(😳,😳)	oidd
+$ddcmd(🎂,🎂)	oidg
+$ddcmd(✊,✊)	oifd
+$ddcmd(👏,👏)	oigv
+$ddcmd(😓,😊)	oihj
+$ddcmd(🌹,🌹)	oihx
+$ddcmd(😏,😏)	oihx
+$ddcmd(☕,☕)	oiia
+$ddcmd(🍺,🍺)	oijq
+$ddcmd(➕,➕)	oijx
+$ddcmd(😭,😭)	oiku
+$ddcmd(🐎🐎🐅🐅,🐎🐎🐅🐅)	oimh
+$ddcmd(🐂,🐂)	oin
+$ddcmd(🐂,🐂)	oinq
+$ddcmd(🐂🚶,🐂🚶)	oinr
+$ddcmd(😠,😠)	oinu
+$ddcmd(👌,👌)	oiok
+$ddcmd(👍,👍)	oiql
+$ddcmd(👎,👎)	oiro
+$ddcmd(💤,💤)	oiuv
+$ddcmd(💔,💔)	oiux
+$ddcmd(👣🐎👀🌸,👣🐎👀🌸)	oizm
 $ddcmd(）,）)	oj
 $ddcmd(《,《)	ok
 $ddcmd(》,》)	ol
 $ddcmd(〕,〕)	om
 $ddcmd(〔,〔)	on
 $ddcmd(㎡,㎡)	op
+$ddcmd(‰,‰)	oq
 $ddcmd(amkeyboard(<37.2><111>),Q傲慢)	oqam
 $ddcmd(aiqkeyboard(<37.3><111>),Q爱情)	oqaq
 $ddcmd(bbkeyboard(<37.2><111>),Q便便)	oqbb
@@ -776,7 +801,6 @@ $ddcmd(dxkeyboard(<37.2><111>),Q凋谢)	oqdx
 $ddcmd(dykeyboard(<37.2><111>),Q得意)	oqdy
 $ddcmd(fdkeyboard(<37.2><111>),Q发呆)	oqfd
 $ddcmd(fendoukeyboard(<37.6><111>),Q奋斗)	oqfd
-‰	oqfh
 $ddcmd(fankeyboard(<37.3><111>),Q饭)	oqfj
 $ddcmd(fnkeyboard(<37.2><111>),Q愤怒)	oqfn
 $ddcmd(fwkeyboard(<37.2><111>),Q飞吻)	oqfw
@@ -854,6 +878,7 @@ $ddcmd(yunkeyboard(<37.3><111>),Q晕)	oqyy
 $ddcmd(zjkeyboard(<37.2><111>),Q再见)	oqzj
 $ddcmd(zqkeyboard(<37.2><111>),Q足球)	oqzq
 $ddcmd(……,……)	os
+$ddcmd(α,α)	ota
 $ddcmd(＠,＠)	ota
 $ddcmd(©,©)	otb
 $ddcmd(²,²)	otb
@@ -870,6 +895,7 @@ $ddcmd(□,□)	otf
 $ddcmd(◆,◆)	otf
 $ddcmd(◇,◇)	otf
 $ddcmd(·,·)	otg
+$ddcmd(γ,γ)	otg
 $ddcmd(√,√)	otg
 $ddcmd(※,※)	oth
 $ddcmd(＆,＆)	oth
