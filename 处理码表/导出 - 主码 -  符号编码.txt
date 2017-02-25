@@ -886,10 +886,12 @@ $ddcmd(³,³)	otb
 $ddcmd(β,β)	otb
 $ddcmd(﹪,﹪)	otb
 $ddcmd(℃,℃)	otc
+$ddcmd(°,°)	otd
 $ddcmd(≠,≠)	otd
 $ddcmd(≥,≥)	otd
 $ddcmd(＝,＝)	otd
 $ddcmd(＞,＞)	otd
+$ddcmd(′,′)	otf
 $ddcmd(■,■)	otf
 $ddcmd(□,□)	otf
 $ddcmd(◆,◆)	otf
@@ -901,11 +903,13 @@ $ddcmd(※,※)	oth
 $ddcmd(＆,＆)	oth
 $ddcmd(×,×)	oti
 $ddcmd(÷,÷)	oti
+$ddcmd(±,±)	otj
 $ddcmd(＋,＋)	otj
 $ddcmd(－,－)	otj
 $ddcmd(〓,〓)	otk
 $ddcmd(﹋,﹋)	otl
 $ddcmd(￡,￡)	otl
+$ddcmd(″,″)	otm
 $ddcmd(﹩,﹩)	otm
 $ddcmd(№,№)	otn
 $ddcmd(♀,♀)	otn

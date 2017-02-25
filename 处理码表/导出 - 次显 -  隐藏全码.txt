@@ -7,7 +7,9 @@
 案	anbm
 铵	anjn
 埯	antd
+嶅	aofe
 岙	aoye
+鲌	baab
 爸	babb
 把	bafb
 拔	bafd
@@ -60,6 +62,7 @@
 诐	biyy
 跸	bizu
 避	bizu
+攽	bjbw
 半	bjdl
 阪	bjey
 搬	bjfy
@@ -92,6 +95,7 @@
 婊	bnny
 浡	bodz
 铂	bojb
+欂	bomc
 博	bouc
 箔	bovb
 蔀	buce
@@ -105,6 +109,7 @@
 埗	butp
 埠	butu
 布	buuj
+鞁	bwgy
 呗	bwkr
 邶	bwle
 棓	bwmk
@@ -121,6 +126,7 @@
 辞	ciqu
 词	ciyk
 残	cjdj
+䅟	cjhp
 锉	cojt
 汆	crru
 熜	cshx
@@ -214,6 +220,7 @@
 崿	eeek
 厄	eeiv
 姶	eenk
+𥔲	eeuk
 愕	eexk
 嗯	enkx
 耳	eraa
@@ -351,6 +358,7 @@
 豪	hcwu
 害	hdbk
 骸	hdgr
+咍	hdkk
 荷	heck
 河	hedk
 涸	hedk
@@ -390,6 +398,7 @@
 奂	hrdd
 涣	hrdd
 豢	hrju
+镮	hrjy
 缓	hrsy
 欢	hryr
 蕻	hscb
@@ -448,6 +457,7 @@
 砗	ieui
 抻	iffu
 榇	ifmm
+棽	ifmv
 撑	igfu
 铖	igji
 瞠	igot
@@ -467,7 +477,9 @@
 迟	iizi
 浐	ijdi
 潺	ijdz
+刬	ijjd
 铲	ijji
+梴	ijmz
 襜	ijpk
 谄	ijyj
 闯	ilmm
@@ -581,6 +593,7 @@
 渐	jmdj
 减	jmdk
 捡	jmfa
+鞯	jmgz
 肩	jmho
 见	jmke
 坚	jmlt
@@ -660,6 +673,7 @@
 秬	juhj
 飓	jujb
 锯	jujk
+枸	jumk
 椐	jumk
 橘	jumk
 驹	jumk
@@ -670,6 +684,7 @@
 醵	juyu
 距	juzj
 遽	juzu
+家	jxbu
 泇	jxdk
 稼	jxhu
 蛱	jxij
@@ -700,6 +715,7 @@
 科	kehu
 铪	kejk
 匼	kekk
+棵	kemg
 坷	ketk
 刻	kewd
 恪	kexk
@@ -735,6 +751,7 @@
 冷	lgds
 楞	lgmf
 莨	lhcl
+烺	lhhl
 桹	lhml
 鲡	lial
 痢	libd
@@ -848,6 +865,7 @@
 吗	makm
 嘛	makm
 马	mava
+鄚	mcce
 蝥	mcsi
 蟊	mcsi
 貌	mcve
@@ -869,6 +887,7 @@
 缦	mjsy
 铭	mkjk
 名	mkxk
+丏	mmav
 沔	mmdm
 免	mmdv
 沔	mmdv
@@ -1006,6 +1025,7 @@
 鹐	qmdn
 黔	qmhv
 铅	qmjk
+墘	qmtq
 慊	qmxn
 窍	qnbv
 愀	qnxh
@@ -1025,6 +1045,7 @@
 傕	qtrf
 碏	qtuo
 渠	qudm
+焌	quhw
 蛆	quiq
 鼩	qujk
 驱	qumx
@@ -1046,6 +1067,7 @@
 溞	scdi
 洓	sedn
 瑟	sewb
+凘	sidj
 厮	siij
 锶	sijx
 飔	sijx
@@ -1102,6 +1124,7 @@
 腆	tmob
 恬	tmxk
 铫	tnjd
+眺	tnod
 龆	tnvk
 拓	tofu
 驼	tomb
@@ -1140,6 +1163,7 @@
 畬	uert
 深	ufdm
 棽	ufmv
+胂	ufou
 甚	ufqv
 什	ufru
 伸	ufru
@@ -1178,6 +1202,7 @@
 祏	uipu
 舐	uiqu
 使	uirl
+畤	uitc
 螫	uiti
 蚀	uiui
 虱	uivi
@@ -1235,6 +1260,8 @@
 溱	vfdh
 浈	vfdr
 镇	vfjb
+枕	vfmv
+昣	vfop
 禛	vfpb
 瑧	vfwh
 拯	vgfa
@@ -1327,11 +1354,13 @@
 顽	wjer
 晚	wjov
 无	wuav
+痦	wubk
 芜	wucw
 鋈	wudj
 污	wudk
 浯	wudk
 巫	wugr
+靰	wugw
 铻	wujk
 鼯	wujk
 梧	wumk
@@ -1354,9 +1383,11 @@
 𫇭	wwcw
 为	wwdd
 洧	wwdo
+危	wwdv
 沩	wwdw
 溦	wwdw
 𣲗	wwdw
+嵬	wweg
 巍	wweg
 隈	wwen
 峗	wwev
@@ -1380,6 +1411,7 @@
 馨	xbuo
 衅	xbxb
 䜣	xbyj
+穸	xibx
 菥	xicj
 葸	xicx
 酅	xiee
@@ -1407,6 +1439,7 @@
 豨	xiuj
 喜	xiuk
 碏	xiuo
+屃	xiur
 憙	xiux
 硒	xiux
 饻	xiuy
@@ -1503,6 +1536,7 @@
 墟	xuty
 畜	xuwt
 恤	xuxx
+醑	xuyo
 瘕	xxby
 罅	xxfh
 黠	xxhk
@@ -1561,6 +1595,7 @@
 益	yibm
 鹢	yibn
 肄	yiby
+潩	yidb
 沂	yidj
 溢	yidm
 㴔	yidx
@@ -1583,6 +1618,7 @@
 毅	yily
 椅	yimk
 枍	yimv
+椸	yimy
 猗	yiqk
 佁	yirk
 伊	yiry
@@ -1719,6 +1755,7 @@
 殒	yydr
 涢	yydr
 沄	yyds
+馧	yyhm
 允	yyse
 纭	yyss
 熨	yyuh

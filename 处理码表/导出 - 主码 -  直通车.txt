@@ -37,7 +37,7 @@ $ddcmd(config(/do 码表),[码表项])	omb
 $ddcmd(convert(全半角,切换),[全半角切换])	oqb
 $ddcmd(set([-IME设置-],检索次显码表=否),[关闭])	oqm
 $ddcmd(set([-IME设置-],检索次显码表=是),[启用隐藏的全码])	oqm
-$ddcmd(help(),[使用入门])	orm
+$ddcmd(help(help.html),[使用入门])	orm
 $ddcmd(<date.YYYY>年<date.M>月<date.D>日,<date.YYYY>年<date.M>月<date.D>日)	orq
 $ddcmd(<date.yyyy>-<date.mm>-<date.dd>,<date.yyyy>-<date.mm>-<date.dd>)	orq
 $ddcmd(<date.yyyy>年<date.m>月<date.d>日,<date.yyyy>年<date.m>月<date.d>日)	orq
