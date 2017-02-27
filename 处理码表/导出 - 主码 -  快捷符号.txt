@@ -14,8 +14,8 @@ $ddcmd(config(/dict <last.1>),[字典])	;i
 $ddcmd(“”keyboard(<37>),“”)	;j
 $ddcmd(（）keyboard(<37>),（）)	;k
 $ddcmd(〔〕keyboard(<37>),〔〕)	;l
-$ddcmd(‘’keyboard(<37>),‘’)	;m
 $ddcmd(keyboard(<35>),[End])	;n
+$ddcmd(‘’keyboard(<37>),‘’)	;m
 ←	;o
 →	;p
 ‰	;q

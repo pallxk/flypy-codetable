@@ -8,4 +8,3 @@
 事实	uub
 置顶	vdd
 哲理	vlw
-指示	vue
